@@ -35,9 +35,9 @@ In this project I was given a publicaly avaialble dataset that included 14 patie
 
 2. Tool used: JupyterLab. 
 
-        In principle, JupyterLab is an R&D tool and not a tool for deployment. That said, for the purpose of writing and presenting this Home Challenge I thought this would be a good tool to present my thinking process in general, and this analysis. The benefit of using JupyterLab is that one could easily write code, provide annotation as well as present EDA and Results in a graphical format all in one place. In addition, it is an open-source tool and the final application developed could easily be exported as a model file to other platform at scale like Google could and AWS.    
+      In principle, JupyterLab is an R&D tool and not a tool for deployment. That said, for the purpose of writing and presenting this Home Challenge I thought this would be a good tool to present my thinking process in general, and this analysis. The benefit of using JupyterLab is that one could easily write code, provide annotation as well as present EDA and Results in a graphical format all in one place. In addition, it is an open-source tool and the final application developed could easily be exported as a model file to other platform at scale like Google could and AWS.    
         
-        The approach I chose is to test different models and compare them before choosing the most appropriate one. The main challenge was that the dataset given was limited in term of its size (number of data / patients). Hence, the chosen model lacks the sensitivity I would have liked to achieve. In a real-world scenario, I would have recommended acquiring more data before re-estimating the model and its success metric.  
+      The approach I chose is to test different models and compare them before choosing the most appropriate one. The main challenge was that the dataset given was limited in term of its size (number of data / patients). Hence, the chosen model lacks the sensitivity I would have liked to achieve. In a real-world scenario, I would have recommended acquiring more data before re-estimating the model and its success metric.  
         
 ### How to Install and Run the Project - local installtion:
 
