@@ -18,7 +18,7 @@ In this project I was given a publicaly avaialble dataset that included 14 patie
 
 3. cp (chest pain: 0 = Typical Angina, 1 = Atypical Angina, 2 = Non-anginal Pain, 3 = Asymptomatic), 
 4. trtbps (resting blood pressure, mmHg), 
-5. chol (Cholestoral mg/dl), 
+5. chol (Cholesterol mg/dl), 
 6. fbs (fasting blood sugar > 120 mg/dl 1 Yes, 0 No),
 7. restecg (Resting ECG results, 0 = Normal, 1 = ST-T wave normality, 2 = Left ventricular hypertrophy),
 8.thalachh (Maximum heart rate achieved),
